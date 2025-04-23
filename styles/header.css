@@ -1,0 +1,29 @@
+header {
+  max-width: 25rem;
+  width: 100%;
+  padding: 1.25rem 1.5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-inline: auto;
+
+  /* border-bottom: 1px solid #222; */
+
+  & img {
+    width: 3rem;
+    height: auto;
+  }
+
+  & h1 {
+    font: 500 var(--text-lg) var(--font);
+  }
+}
+
+@media (width >= 80em) {
+  header {
+    max-width: 80rem;
+    padding: 1.25rem 2rem;
+  }
+}
