@@ -1,6 +1,6 @@
 # Chatbot - FURIA
 
-Este projeto foi desenvolvido como parte do **Desafio Técnico da vaga de Assistente de Engenharia de Software da FURIA Tech**, com o objetivo de criar uma **landing page com um chatbot** para fãs do time FURIA de CS:GO.
+Este projeto foi desenvolvido como parte do **Desafio Técnico da vaga de Assistente de Engenharia de Software da FURIA Tech**, com o objetivo de criar uma **landing page com um chatbot** para fãs do time FURIA de CS.
 
 ## Objetivo
 
