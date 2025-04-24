@@ -15,8 +15,8 @@ Oferecer uma experiência conversacional simples e envolvente para que os fãs d
 
 ## Tecnologias Utilizadas
 
-- **HTML5** – Estrutura do site
-- **CSS (modo escuro personalizado)** – Estilo da landing page
+- **HTML** – Estrutura do site
+- **CSS** – Estilo da landing page
 - **JavaScript puro** – Lógica do chatbot com respostas automáticas
 
 ---
@@ -37,5 +37,6 @@ Oferecer uma experiência conversacional simples e envolvente para que os fãs d
 ## Como Executar Localmente
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/seu-usuario/chatbot-furia.git
