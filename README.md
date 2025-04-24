@@ -11,15 +11,11 @@ Oferecer uma experiência conversacional simples e envolvente para que os fãs d
 - Navegar para a loja oficial
 - Conhecer a história da organização
 
----
-
 ## Tecnologias Utilizadas
 
 - **HTML** – Estrutura do site
 - **CSS** – Estilo da landing page
 - **JavaScript puro** – Lógica do chatbot com respostas automáticas
-
----
 
 ## Palavras chaves de perguntas
 
@@ -31,8 +27,6 @@ Oferecer uma experiência conversacional simples e envolvente para que os fãs d
 - Clipe e Jogada
 - História e Sobre
 - Redes e Social
-
----
 
 ## Como Executar Localmente
 
