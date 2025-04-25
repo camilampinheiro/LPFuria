@@ -3,7 +3,7 @@
   width: 100%;
   margin: 2rem auto;
   background-color: #F2F2F2;
-  padding: 20px;
+  padding: 1.25rem;
   border-radius: .5rem;
   box-shadow: 0 0 10px #4C4E52;
   height: 25rem;
@@ -23,6 +23,9 @@
     border: none;
     border-radius: .5rem;
     background-color: #F2F2F2;
+
+    font: var(--font);
+    font-size: var(--text-sm);
   }
 
   & button {
@@ -32,6 +35,9 @@
     border-radius: .5rem;
     cursor: pointer;
     transition: transform .2s ease;
+
+    font: var(--font);
+    font-size: var(--text-sm);
   }
 
   & button:hover {
@@ -40,11 +46,10 @@
 }
 
 .message {
-  margin: 10px 0;
-  padding: 10px;
-  border-radius: 6px;
-  font-weight: 500;
-  font-size: var(--text-base);
+  margin: .625rem 0;
+  padding: .625rem;
+  border-radius: .375rem;
+  font-size: var(--text-sm);
 }
 
 .user {
